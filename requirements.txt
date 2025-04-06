@@ -5,4 +5,5 @@ faiss-cpu
 numpy
 Pillow
 pymupdf
+torch
 python-dotenv
